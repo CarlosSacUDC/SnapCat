@@ -16,24 +16,13 @@ If I had to describe this project in three (3) emojis, they would be: **😻😼
 
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
-The following REQUIRED features are completed:
+The following features are completed:
 
 - [x] Pick an app screenshot to duplicate
 - [x] Create a runnable app that displays an Animal Version of your chosen screenshot
 - [x] Layout uses one (1) or more ConstraintLayout
 - [x] Layout uses one (1) or more ImageView
 - [x] Layout uses three (3) or more TextViews
-
-The following STRETCH features are implemented:
-
-- [ ] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
 
