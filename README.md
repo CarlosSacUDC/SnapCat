@@ -38,15 +38,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
-
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
