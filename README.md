@@ -38,10 +38,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-
 ## License
 
 Copyright **2023** **Carlos Sac**
